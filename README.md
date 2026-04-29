@@ -24,10 +24,6 @@ This gives users a **clear picture of financial health and goal progress**.
 
 ---
 
-## 🚀 Live Product
-
-👉 https://finance-tracker-xz.netlify.app
-
 ---
 
 ## 🎯 Problem Statement
